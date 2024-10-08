@@ -1,0 +1,1015 @@
+{
+  "murals": [
+    {
+      "id": 1,
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1706561562/Hidden%20Murals/download_1_kveqy4.jpg",
+      "artist": "Banksy",
+      "location": {
+        "neighborhood": "Williamsburg",
+        "borough": "Brooklyn",
+        "intersection": "Bedford Ave & N 6th St"
+      },
+      "title": "Balloon Girl",
+      "year": 2015,
+      "description": "Iconic Banksy artwork depicting a girl reaching for a balloon."
+    },
+    {
+      "id": 2,
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1706575529/Hidden%20Murals/sf-shepard-fairey-nyc-mural_hjqkll.jpg",
+      "artist": "Shepard Fairey",
+      "location": {
+        "neighborhood": "Lower East Side",
+        "borough": "Manhattan",
+        "intersection": "Houston St & Bowery"
+      },
+      "title": "Obey Mural",
+      "year": 2018,
+      "description": "Shepard Fairey's signature Obey Giant mural conveying political messages."
+    },
+    {
+      "id": 3,
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1706645486/Hidden%20Murals/Swoon-Subway-Windows_1024x_a0b8cv.webp",
+      "artist": "Swoon",
+      "location": {
+        "neighborhood": "Bushwick",
+        "borough": "Brooklyn",
+        "intersection": "Troutman St & St. Nicholas Ave"
+      },
+      "title": "Subway Dreaming",
+      "year": 2017,
+      "description": "Swoon's intricate wheatpaste art featuring dreamlike scenes on abandoned buildings."
+    },
+    {
+      "id": 4,
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1706645788/Hidden%20Murals/inside_out_JR_vaoo0j.jpg",
+      "artist": "JR",
+      "location": {
+        "neighborhood": "DUMBO",
+        "borough": "Brooklyn",
+        "intersection": "Washington St & Water St"
+      },
+      "title": "Inside Out Project",
+      "year": 2016,
+      "description": "JR's large-scale portraits pasted on buildings, part of the Inside Out Project."
+    },
+    {
+      "id": 5,
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1706646284/Hidden%20Murals/brooklyn-street-art-faithXLVII-232am-projects-07-18-web-3_ixugky.jpg",
+      "artist": "Faith47",
+      "location": {
+        "neighborhood": "Harlem",
+        "borough": "Manhattan",
+        "intersection": "Lenox Ave & W 125th St"
+      },
+      "title": "The Unbound",
+      "year": 2019,
+      "description": "Faith47's mural exploring themes of freedom and unity."
+    },
+    {
+      "id": 6,
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1706646776/Hidden%20Murals/1200px-Space_Invader__Greenpoint_Brooklyn__2164382388_zyzrfv.jpg",
+      "artist": "Invader",
+      "location": {
+        "neighborhood": "Greenpoint",
+        "borough": "Brooklyn",
+        "intersection": "Manhattan Ave & Nassau Ave"
+      },
+      "title": "Space Invader",
+      "year": 2014,
+      "description": "Invader's pixelated mosaic featuring a space invader character."
+    },
+    {
+      "id": 7,
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1706647348/Hidden%20Murals/IMG_0190_sfjsld.png",
+      "artist": "Lady Pink",
+      "location": {
+        "neighborhood": "Long Island City",
+        "borough": "Queens",
+        "intersection": "Jackson Ave & Crane St"
+      },
+      "title": "Queens Connection",
+      "year": 2020,
+      "description": "Lady Pink's vibrant mural celebrating the cultural diversity of Queens."
+    },
+    {
+      "id": 9,
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1706647981/Hidden%20Murals/Roa-street-art-in-Williamsburg-Brooklyn_aghese.jpg",
+      "artist": "ROA",
+      "location": {
+        "neighborhood": "Brooklyn Navy Yard",
+        "borough": "Brooklyn",
+        "intersection": "Flushing Ave & Navy St"
+      },
+      "title": "Wildlife Harmony",
+      "year": 2016,
+      "description": "ROA's large-scale mural featuring intricately detailed wildlife."
+    },
+    {
+      "id": 10,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706719721/Hidden%20Murals%20NYC/bigpun_tpgfjm.webp",
+      "artist": "Tats Cru",
+      "location": {
+        "neighborhood": "Longwood",
+        "borough": "Bronx",
+        "intersection": "163rd St & Rogers Pl"
+      },
+      "title": "Big Pun",
+      "year": 2023,
+      "description": "A mural depicting Big Pun"
+    },
+    {
+      "id": 11,
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1706717460/Hidden%20Murals/Stik-Street-Art-Alphabet-City-NYC_wxg4db.jpg",
+      "artist": "Stik",
+      "location": {
+        "neighborhood": "Chinatown",
+        "borough": "Manhattan",
+        "intersection": "Allen St & Hester St"
+      },
+      "title": "Unity",
+      "year": 2021,
+      "description": "Stik's minimalist mural promoting unity and inclusivity."
+    },
+    {
+      "id": 12,
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1706719491/Hidden%20Murals/img_4174_b6cipt.webp",
+      "artist": "Pixel Pancho",
+      "location": {
+        "neighborhood": "Chelsea",
+        "borough": "Manhattan",
+        "intersection": "22nd St & 10th Ave"
+      },
+      "title": "Robot Lady of Leisure",
+      "year": 2017,
+      "description": "Pixel Pancho's robotic-themed mural blending nature and machinery."
+    },
+    {
+      "id": 13,
+      "artist": "Dragon76",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_720/v1706719125/Hidden%20Murals%20NYC/Dragon76_iaoike.jpg",
+      "location": {
+        "neighborhood": "Financial District",
+        "borough": "Manhattan",
+        "intersection": "Vesey St & West St."
+      },
+      "title": "Untitled",
+      "year": 2023,
+      "description": "With a style described as “Mad Max meets the future,” Dragon is the latest street artist to work on the World Trade Center campus. This is the second mural Dragon has done on the site, having painted another one in 2018 next to the St. Nicholas Shrine. His mural draws inspiration from the American west and features an indigenous woman."
+    },
+    {
+      "id": 14,
+      "artist": "El Mac",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706722218/Hidden%20Murals%20NYC/Elmac_fr2azx.jpg",
+      "location": {
+        "neighborhood": "East Harlem",
+        "borough": "Manhattan",
+        "intersection": "111th St. & Lexington Ave"
+      },
+      "title": "El Regalo Mágico / The Magic Gift",
+      "year": 2016,
+      "description": "The title of the mural refers to the gift of inspiration. The figure is based on respected Nuyorican author Nicholasa Mohr, who lives nearby, and is known for being one of the first widely published Latina authors in the United States.Cero's part, the geometric infinity pattern that forms a halo around the figure, is composed entirely of tile mosaic."
+    },
+    {
+      "id": 15,
+      "artist": "Dasic Fernandez",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_872/v1706716322/Hidden%20Murals%20NYC/Dasic_Fernandez_hfqmwq.jpg",
+      "location": {
+        "neighborhood": "Long Island City",
+        "borough": "Queens",
+        "intersection": "23rd St & 44th Rd"
+      },
+      "title": "Untitled",
+      "year": 2015,
+      "description": "Dasic Fernandez is a Chilean graffiti street artist."
+    },
+    {
+      "id": 16,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706714014/Hidden%20Murals%20NYC/WuTang-WillPower-Stapleton_k4rpwq.avif",
+      "artist": "Will Power",
+      "location": {
+        "neighborhood": "Stapleton",
+        "borough": "Staten Island",
+        "intersection": "Canal St & Wright St"
+      },
+      "title": "Untitled",
+      "year": 2021,
+      "description": "Will Power's massive tribute wall to hip-hop legends."
+    },
+    {
+      "id": 17,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706666026/Hidden%20Murals%20NYC/RonEnglish-Grinnies_h8gqdn.jpg",
+      "artist": "Ron English",
+      "location": {
+        "neighborhood": "Coney Island",
+        "borough": "Brooklyn",
+        "intersection": "Stillwell Ave & Bowery St."
+      },
+      "title": "Coney Island Grinnies",
+      "year": 2015,
+      "description": "Happiness sticks to your face! And ecstasy peels it right off! The idea of the grinnie treatment is to illustrate how the expression of happiness inadvertently reveals the soul."
+    },
+    {
+      "id": 18,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706651564/Hidden%20Murals%20NYC/dreamscape_cnj1yo.jpg",
+      "artist": "Os Gemeos",
+      "location": {
+        "neighborhood": "Coney Island",
+        "borough": "Brooklyn",
+        "intersection": "Stillwell Ave between Neptune Ave & Mermaid Ave"
+      },
+      "title": "Dreamscape",
+      "year": 2005,
+      "description": "Seeing Os Gemeos' mural on Stillwell Avenue alone is worth a trip to Coney Island. Painted in 2005 and located just outside the subway exit, it continues to attract art tourists and local visitors. The Brazilian graffiti artists, twin brothers Otavio and Gustavo Pandolfo, were sponsored by Creative Time’s Dreamland Artist Club for this project, but their creative reach has expanded exponentially in the last decade."
+    },
+    {
+      "id": 19,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706650785/Hidden%20Murals%20NYC/vhils-chiseled-art_r28oem.jpg",
+      "artist": "Vhils",
+      "location": {
+        "neighborhood": "Little Italy",
+        "borough": "Manhattan",
+        "intersection": "Broome St & Elizabeth St"
+      },
+      "title": "TJ Mizell",
+      "year": 2018,
+      "description": "This mural by portuguese artist Vhils is his first in the US. His portraits are chiseled into plaster and brick walls. This is a portrait of artist TJ Mizell."
+    },
+    {
+      "id": 20,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706650405/Hidden%20Murals%20NYC/Hammer_Boy_yjkwep.webp",
+      "artist": "Banksy",
+      "location": {
+        "neighborhood": "Upper West Side",
+        "borough": "Manhattan",
+        "intersection": "79th St between Broadway & Amsterdam Ave"
+      },
+      "title": "Hammer Boy",
+      "year": 2013,
+      "description": "This modest stencil piece on the Upper West Side is still intact, thanks to the building owner, who installed a Plexiglas shield in an act of guerilla art preservation."
+    },
+    {
+      "id": 21,
+      "artist": "Rocko & Joel Artista",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706664899/Hidden%20Murals%20NYC/Rocko_Joel_Artista_yh6wbk.jpg",
+      "location": {
+        "neighborhood": "Bushwick",
+        "borough": "Brooklyn",
+        "intersection": "St Nicholas Ave & Troutman St"
+      },
+      "title": "Untitled",
+      "year": 2015,
+      "description": "Spread Art NYC, led by Naofal Alaoui (aka Rocko), helped bring this calligraffiti mural to life in 2015, located across from 247 Troutman Street. Working with Joel Bergner (aka Joel Artista), the two executed a mural based on an ongoing portrait series by acclaimed photographer and cinematographer Barron Claiborne"
+    },
+    {
+      "id": 22,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706648244/Hidden%20Murals%20NYC/TheDayAfter_ouowxu.webp",
+      "artist": "How & Nosm",
+      "location": {
+        "neighborhood": "Bowery",
+        "borough": "Manhattan",
+        "intersection": "E Houston St & Bowery"
+      },
+      "title": "The Day After",
+      "year": 2012,
+      "description": "A street art work by How and Nosm (Raoul and Davide Perre) identical twin brothers known for their large scale graffiti based murals that adorn city walls around the world."
+    },
+    {
+      "id": 23,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706646297/Hidden%20Murals%20NYC/UrbanLabyrinth_uxulis.jpg",
+      "artist": "Logan Hicks",
+      "location": {
+        "neighborhood": "Bowery",
+        "borough": "Manhattan",
+        "intersection": "E Houston St & Bowery"
+      },
+      "title": "Story of My Life",
+      "year": 2016,
+      "description": "Logan Hicks intricately weaves a captivating narrative of urban living, blending realism and abstraction."
+    },
+    {
+      "id": 24,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706645949/Hidden%20Murals%20NYC/Melty_World_rwjhuv.jpg",
+      "artist": "Buff Monster",
+      "location": {
+        "neighborhood": "Lower East Side",
+        "borough": "Manhattan",
+        "intersection": "Rivington St & Ludlow St"
+      },
+      "title": "Melty World",
+      "year": 2021,
+      "description": "Brooklyn's power-pink street artist Buff Monster is well known around the City for his colorful and detailed murals depicting cute one-eyed monsters and melty elements."
+    },
+    {
+      "id": 25,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706720065/Hidden%20Murals%20NYC/nychos_sta9pv.jpg",
+      "artist": "Nychos",
+      "location": {
+        "neighborhood": "Coney Island",
+        "borough": "Brookyln",
+        "intersection": "Stillwell Ave & Bowery St."
+      },
+      "title": "Untitled",
+      "year": 2016,
+      "description": "Blending themes of morbid corporeality with the colorful, hyper-loony aesthetic descended from comics and cartoons, Nychos has developed a unique style that performs with powerhouse effect whether on the street or in the gallery."
+    },
+    {
+      "id": 26,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706719978/Hidden%20Murals%20NYC/Herculkes_at_the_crossroads_f3czhg.jpg",
+      "artist": "Buff Monster",
+      "location": {
+        "neighborhood": "Coney Island",
+        "borough": "Brooklyn",
+        "intersection": "Stillwell Ave & Bowery St."
+      },
+      "title": "Hercules at the Crossroads",
+      "year": 2015,
+      "description": "I’ve chosen to recreate an allegory painted many times during the Renaissance: Hercules at the Crossroads. Traditionally, Hercules is placed in the middle; on the left is a life of virtue (represented by a treacherous mountains) and a life of sin and unhealthy choices on the right (represented by lakes and wooded areas). I¹ve maintained the positions of the different paths, but inverted the imagery because I think living an honest life can be easy and appealing. In the painting we see that Hercules is right in the process of making that choice: he¹s looking towards the sweet side while his spear creates a visual barrier to the unhealthy side. I think the scene also relates perfectly to Coney Island Art Walls project; celebrating the possibilities of new development over the run-down norm. - Buff Monster"
+    },
+    {
+      "id": 27,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706750859/Hidden%20Murals%20NYC/LOVE_uofzxc.jpg",
+      "artist": "Unknown Artist",
+      "location": {
+        "neighborhood": "Mott Haven",
+        "borough": "Bronx",
+        "intersection": "E 174th St & Boone Ave"
+      },
+      "title": "Love",
+      "year": 2022,
+      "description": "Love."
+    },
+    {
+      "id": 28,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706751149/Hidden%20Murals%20NYC/Bronx-Unknown_pskjdw.jpg",
+      "artist": "Unknown Artist",
+      "location": {
+        "neighborhood": "Mott Haven",
+        "borough": "Bronx",
+        "intersection": "E 174th St & Boone Ave"
+      },
+      "title": "The Bronx",
+      "year": 2022,
+      "description": "Murals found on Boone Ave Walls in the Bronx."
+    },
+    {
+      "id": 29,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706751716/Hidden%20Murals%20NYC/daze-graffiti-bronx-nyc_sajd2i.jpg",
+      "artist": "Daze",
+      "location": {
+        "neighborhood": "Mott Haven",
+        "borough": "Bronx",
+        "intersection": "E 174th St & Boone Ave"
+      },
+      "title": "Daze",
+      "year": 2023,
+      "description": "The legendary NYC-based artist Chris “Daze” Ellis mural at Boone Avenue Walls"
+    },
+    {
+      "id": 30,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706752472/Hidden%20Murals%20NYC/StatenIsland-Stapleton_ErinKelli_Kilbane_knyisi.avif",
+      "artist": "ErinKelli Kilbane",
+      "location": {
+        "neighborhood": "Stapleton",
+        "borough": "Staten Island",
+        "intersection": "Wave St & Bay St"
+      },
+      "title": "Untitled",
+      "year": 2023,
+      "description": "An eye-catching new mural dripping with hometown pride just down the block from Hub17NYC, the art-studio space that serves as a hub for creators in the community. This mural at 73 Wave St. is part of nonprofit Projectivity’s beautification project, and is sponsored by the New York City Department of Cultural Affairs and the Staten Island Foundation. Headquartered in Staten Island, Projectivity offers education, resources and opportunities to those interested in pursuing media and the arts."
+    },
+    {
+      "id": 31,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706753409/Hidden%20Murals%20NYC/broad_st_bay_st_nyc_arts_cypher_jdshyy.avif",
+      "artist": "Unknown Artist",
+      "location": {
+        "neighborhood": "Stapleton",
+        "borough": "Staten Island",
+        "intersection": "Bay St & Broad St"
+      },
+      "title": "Untitled",
+      "year": "2017",
+      "description": "Thanks to the work of NYC Arts Cypher, the corner of Bay and Broad streets has become an urban art gallery. But also with potent anti-drug and anti-bullying messages."
+    },
+    {
+      "id": 32,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706754610/Hidden%20Murals%20NYC/toofly-wcmp-street-art-nyc_a1gwus.jpg",
+      "artist": "TooFly",
+      "location": {
+        "neighborhood": "Astoria",
+        "borough": "Queens",
+        "intersection": "Welling Ct & 30th Ave"
+      },
+      "title": "Untitled",
+      "year": "2023",
+      "description": "This mural is by Ecuador-born, Queens-bred multidisciplinary artist Toofly."
+    },
+    {
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1707281932/oiwwfsvggm7ylo5klq8c.jpg",
+      "artist": "Mz. Icar",
+      "location": {
+        "neighborhood": "Bedstuy",
+        "borough": "Brooklyn",
+        "intersection": "Lexington Ave & Stuyvesant St"
+      },
+      "title": "Unknown",
+      "year": "2023",
+      "description": "The sumptuous image featured above was painted collaboratively by members of Mz. Icar, a collective of primarily Black female interdisciplinary artists “creatively taking up space.”  ",
+      "id": 33,
+      "intersection": "Lexington Ave & Stuyvesant St ",
+      "borough": "Brooklyn"
+    },
+    {
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1707312104/yqn0wc1vfimtfgu4qnhr.jpg",
+      "artist": "Retna",
+      "location": {
+        "neighborhood": "Coney Island",
+        "borough": "Brooklyn",
+        "intersection": "Stillwell Ave & Bowery St"
+      },
+      "title": "Gracias a La Vida",
+      "year": "2018",
+      "description": "Retna is well known for his unique text-based style, and layering intricate line work with an incandescent color palette, while using paintbrushes mixed with the traditional spray can. His pieces synthesize the line between fine art and graffiti, power and opposition, and tradition and advancement.",
+      "id": 34
+    },
+    {
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1707313395/wwxnlwtisfwmmfcry4kt.webp",
+      "artist": "Queen Andréa",
+      "location": {
+        "neighborhood": "Astoria",
+        "borough": "Queens",
+        "intersection": "30th Ave & Welling Ct"
+      },
+      "title": "Super Fresh",
+      "year": "2019",
+      "description": "I did not expect to discover this “Super Fresh” with a great flow in the Queens. Her typography, bright colors and positive messages are recognizable among all. She likes to think that she practices Wall Therapy! This artist is super known since she had the honor of putting her signature on the emblematic Houston Bowery Wall in the heart of Manhattan.",
+      "id": 35
+    },
+    {
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1707313742/pgjmk24oni0da3rlfwba.webp",
+      "artist": "Lena Mc Carthy & Caleb Neelon",
+      "location": {
+        "neighborhood": "Astoria",
+        "borough": "Queens",
+        "intersection": "30th Ave & Welling Ct"
+      },
+      "title": "Gynnya Mc Millen",
+      "year": "2019",
+      "description": "Gynnya Mc Millen, depicted on this mural, was a 16-year-old girl who was detained in a juvenile detention center following an altercation with her mother. The next morning she was found dead in her cell. This case became a huge scandal in the United States in 2017 and called into question certain processes of the American prison system. ",
+      "id": 36
+    },
+    {
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1707314098/vn0wr9ozbcwmhauofzns.webp",
+      "artist": "Shiro",
+      "location": {
+        "neighborhood": "Astoria",
+        "borough": "Queens",
+        "intersection": "30th Ave & Welling Ct"
+      },
+      "title": "Love Is All",
+      "year": "2019",
+      "description": "Shiro is a Japanese artist who worked as a nurse in Japan in her twenties. Assisting people close to death made her realize that life is short. So she left Japan to travel the world and leaving her art in every place she visited (20 countries and still counting). The work combines her character, “Mimi,” with a message written in a classical NYC graffiti style.",
+      "id": 37
+    },
+    {
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1707314671/aatdk52rwtg5srgehthv.jpg",
+      "artist": "Sara Erenthal",
+      "location": {
+        "neighborhood": "Astoria",
+        "borough": "Queens",
+        "intersection": "30th Ave & Welling Ct"
+      },
+      "title": "Woman, Speak Up!",
+      "year": "2019",
+      "description": "Sara Erenthal left her Orthodox Jewish life at 17 and started to create art and travel the world. Her unique art style, sometimes provocative, can be seen in predicted places like outdoor and indoor galleries and in unpredicted places like painted on a cover on a mattress in the middle of the street or on a cupboard in the dumpster. Her work themes focus on displacement, survival, and liberation.",
+      "id": 38
+    },
+    {
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1707314856/teeq25ckhy6uklsjd3p8.jpg",
+      "artist": "JCorp",
+      "location": {
+        "neighborhood": "Astoria",
+        "borough": "Queens",
+        "intersection": "30th Ave & Welling Ct"
+      },
+      "title": "Untitled",
+      "year": "2019",
+      "description": "Justine Wong, AKA JCorp, is a pop culture visual artist who resides in NYC. Her Hong Kong roots and growing up in America inspired her unique art style. She exhibits her work in outdoor and indoor galleries, paints for magazines, and sells her art on different merchandise. She even designed a beer label.",
+      "id": 39
+    },
+    {
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1707315300/mz3fgx1tqgpp7hjruo2z.jpg",
+      "artist": "Danielle Mastrion",
+      "location": {
+        "neighborhood": "Astoria",
+        "borough": "Queens",
+        "intersection": "30th Ave & Welling Ct"
+      },
+      "title": "Stormé DeLarverie",
+      "year": "2019",
+      "description": "Danielle Mastrion is a painter and muralist since 2012, traveling and painting in festivals and local mural projects all around the world and her home base, NYC. Her work raises issues of social justice, specifically Women’s rights & youth education. In this colorful mural, painted for 2021 pride month, Mastrion featured Stormé DeLarverie, a lesbian singer, performer, and one of the leaders of the gay liberation movement and the Stonewall Inn riots.",
+      "id": 40
+    },
+    {
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1707315501/s8fqcsanlppnvskhraiu.jpg",
+      "artist": "Lexi Bella",
+      "location": {
+        "neighborhood": "Astoria",
+        "borough": "Queens",
+        "intersection": "30th Ave & Welling Ct"
+      },
+      "title": "Ru Paul",
+      "year": "2019",
+      "description": "Lexi Bella’s murals are displayed in almost every large outdoor art gallery in NYC and other large cities in the US and Europe. Bella is famous for her colorful paintings of people, mainly women. This mural features RuPaul Andre Charles, AKA RuPaul (b. 1960), one of the most successful drag queens in the US, a performer and a media icon who hosted and produced the RuPaul’s Drag Race for 13 seasons and received 8 Primetime Emmy Awards for that.",
+      "id": 41
+    },
+    {
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1707316377/ovhef5ja1qitpuu88jqt.jpg",
+      "artist": "André Trenier",
+      "location": {
+        "neighborhood": "Crotona",
+        "borough": "Bronx",
+        "intersection": "Southern Blvd & E 182nd St"
+      },
+      "title": "Karen Washington",
+      "year": "2022",
+      "description": "Trenier’s first completed mural for 2022 celebrates Karen Washington, a community leader and trailblazer who co-founded East Tremont’s Garden of Happiness in the late 1980s, and later helped launch City Farms Market and the New York City Community Garden Coalition. Today Washington co-owns Rise & Root Farm in Chester, New York. NY",
+      "id": 42
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "text": "Absolutely captivating! Banksy's art always speaks volumes.",
+      "muralId": 1,
+      "author": "ArtEnthusiast23"
+    },
+    {
+      "id": 2,
+      "text": "The symbolism behind Balloon Girl is both poignant and beautiful.",
+      "muralId": 1,
+      "author": "UrbanExplorer"
+    },
+    {
+      "id": 3,
+      "text": "Shepard Fairey's political murals are a powerful form of expression.",
+      "muralId": 2,
+      "author": "PoliticalArtCritic"
+    },
+    {
+      "id": 4,
+      "text": "Obey Mural stands tall, conveying a strong and thought-provoking message.",
+      "muralId": 2,
+      "author": "VisualActivist"
+    },
+    {
+      "id": 5,
+      "text": "Swoon's wheatpaste art on Troutman St is like stepping into a dream.",
+      "muralId": 3,
+      "author": "DreamSeeker"
+    },
+    {
+      "id": 6,
+      "text": "Subway Dreaming by Swoon adds a touch of magic to Bushwick's streets.",
+      "muralId": 3,
+      "author": "LocalArtFanatic"
+    },
+    {
+      "id": 7,
+      "text": "JR's Inside Out Project celebrates the diversity of DUMBO.",
+      "muralId": 4,
+      "author": "CommunityHarmony"
+    },
+    {
+      "id": 8,
+      "text": "Pasted portraits by JR tell the unique stories of the people in the community.",
+      "muralId": 4,
+      "author": "PortraitEnthusiast"
+    },
+    {
+      "id": 9,
+      "text": "Faith47's mural in Harlem radiates themes of freedom and unity.",
+      "muralId": 5,
+      "author": "FreedomDreamer"
+    },
+    {
+      "id": 10,
+      "text": "The Unbound by Faith47 is a testament to the power of art in conveying messages.",
+      "muralId": 5,
+      "author": "ArtPhilosopher"
+    },
+    {
+      "id": 11,
+      "text": "Invader's pixelated mosaic at Manhattan Ave is a modern masterpiece.",
+      "muralId": 6,
+      "author": "PixelArtAdmirer"
+    },
+    {
+      "id": 12,
+      "text": "Space Invader brings a touch of the digital world to the streets of Greenpoint.",
+      "muralId": 6,
+      "author": "DigitalExplorer"
+    },
+    {
+      "id": 13,
+      "text": "Lady Pink's Queens Connection celebrates the rich diversity of the neighborhood.",
+      "muralId": 7,
+      "author": "CulturalHarmony"
+    },
+    {
+      "id": 14,
+      "text": "Queens Connection adds vibrancy and color to Long Island City.",
+      "muralId": 7,
+      "author": "ColorfulExplorer"
+    },
+    {
+      "id": 17,
+      "text": "ROA's Wildlife Harmony is like a detailed encyclopedia of the natural world.",
+      "muralId": 9,
+      "author": "NatureLover"
+    },
+    {
+      "id": 18,
+      "text": "Wildlife Harmony by ROA brings the Brooklyn Navy Yard to life with intricate details.",
+      "muralId": 9,
+      "author": "WildlifeExplorer"
+    },
+    {
+      "id": 19,
+      "text": "Just found Tats Cru's 'Big Pun' mural in Longwood, Bronx! A powerful tribute capturing the essence of the legendary artist. Love stumbling upon such impactful pieces in the heart of the borough!",
+      "muralId": 10,
+      "author": "BronxExplorer101"
+    },
+    {
+      "id": 20,
+      "text": "Tats Cru's 'Big Pun' mural is a gem in Longwood! The depiction of Big Pun is so vivid and resonates with the Bronx's rich cultural history. Awesome to see artists celebrating legends in such a vibrant way!",
+      "muralId": 10,
+      "author": "ArtHistoryFanatic"
+    },
+    {
+      "id": 21,
+      "text": "Stik's Unity mural sends a powerful message of inclusivity to Chinatown.",
+      "muralId": 11,
+      "author": "UnityAdvocate"
+    },
+    {
+      "id": 22,
+      "text": "The simplicity of Stik's mural in Allen St is a beautiful representation of unity.",
+      "muralId": 11,
+      "author": "SimpleArtLover"
+    },
+    {
+      "id": 23,
+      "text": "Pixel Pancho's Mechanical Nature blends the organic and the mechanical seamlessly.",
+      "muralId": 12,
+      "author": "TechArtEnthusiast"
+    },
+    {
+      "id": 24,
+      "text": "Mechanical Nature is a testament to Pixel Pancho's unique fusion of nature and machinery.",
+      "muralId": 12,
+      "author": "NatureMechanic"
+    },
+    {
+      "id": 25,
+      "text": "Stumbled upon Dragon76's amazing mural! It's like a futuristic journey with Mad Max vibes and a touch of the American west. The indigenous woman adds a special touch. Love discovering unique art in the heart of the city!",
+      "muralId": 13,
+      "author": "CityExplorer87"
+    },
+    {
+      "id": 26,
+      "text": "Just came across this mural, and it blew my mind! The mix of Mad Max and futuristic elements is visually stunning. The story inspired by the American west, along with the indigenous woman, creates a mesmerizing experience. Kudos to the artist for this fantastic blend of influences!",
+      "muralId": 13,
+      "author": "ArtAdventurer55"
+    },
+    {
+      "id": 27,
+      "text": "El Mac's 'El Regalo Mágico' is like a living storybook on the streets of East Harlem. Nicholasa Mohr's presence feels like a whispered tale, and Cero's intricate tile mosaic adds a touch of magical geometry. An enchanting gift of art!",
+      "muralId": 14,
+      "author": "StreetStoryteller"
+    },
+    {
+      "id": 28,
+      "text": "Stepping into El Mac's 'El Regalo Mágico' is like entering a realm where inspiration takes form. Nicholasa Mohr's figure brings literary grace, and Cero's geometric infinity pattern feels like a visual dance. An extraordinary fusion of art and magic in Manhattan!",
+      "muralId": 14,
+      "author": "MagicalRealist"
+    },
+    {
+      "id": 29,
+      "text": "Dasic Fernandez brings vibrant energy to Long Island City.",
+      "muralId": 15,
+      "author": "CosmicWaveAdmirer"
+    },
+    {
+      "id": 30,
+      "text": "This mural is a testament to Dasic Fernandez's mastery of color and movement.",
+      "muralId": 15,
+      "author": "ColorMovementEnthusiast"
+    },
+    {
+      "id": 31,
+      "text": "Will Power's 'untitled' mural is a massive tribute to hip-hop legends. The portrayal is both impactful and reverent, capturing the essence of the genre's influence. A visual ode that resonates!",
+      "muralId": 16,
+      "author": "HipHopHarmony"
+    },
+    {
+      "id": 31,
+      "text": "Will Power's 'untitled' mural is a massive tribute to hip-hop legends. The portrayal is both impactful and reverent, capturing the essence of the genre's influence. A visual ode that resonates!",
+      "muralId": 16,
+      "author": "HipHopHarmony"
+    },
+    {
+      "id": 33,
+      "text": "Ron English's 'Coney Island Grinnies' is a joyful masterpiece! The concept of portraying happiness and its connection to the soul is both thought-provoking and visually delightful. Kudos to the artist for spreading positivity through art.",
+      "muralId": 17,
+      "author": "SmileSeeker99"
+    },
+    {
+      "id": 34,
+      "text": "The 'Coney Island Grinnies' mural by Ron English is a brilliant representation of the complexity of human emotions. The use of vibrant colors and the playful depiction of happiness make this piece a standout in Coney Island. Ron English's creativity is truly captivating!",
+      "muralId": 17,
+      "author": "HumorArtAppreciator"
+    },
+    {
+      "id": 35,
+      "text": "Os Gemeos' Dreamscape on Coney Island is a surreal journey in street art.",
+      "muralId": 18,
+      "author": "DreamscapeExplorer"
+    },
+    {
+      "id": 36,
+      "text": "Dreamscape by Os Gemeos is a timeless masterpiece in the heart of Brooklyn.",
+      "muralId": 18,
+      "author": "TimelessArtLover"
+    },
+    {
+      "id": 37,
+      "text": "Vhils' chiseled mural in Little Italy is a unique portrait of artist TJ Mizell.",
+      "muralId": 19,
+      "author": "ChiseledPortraitsFan"
+    },
+    {
+      "id": 38,
+      "text": "Vhils' unknown portrait is a captivating addition to the artistic scene in Little Italy.",
+      "muralId": 19,
+      "author": "ArtMysteryEnthusiast"
+    },
+    {
+      "id": 39,
+      "text": "Banksy's Hammer Boy on the Upper West Side is a modest yet impactful stencil piece.",
+      "muralId": 20,
+      "author": "StencilArtAdmirer"
+    },
+    {
+      "id": 40,
+      "text": "Hammer Boy by Banksy remains intact, a testament to guerilla art preservation.",
+      "muralId": 20,
+      "author": "PreservationistArtLover"
+    },
+    {
+      "id": 41,
+      "text": "This mural is a vibrant masterpiece! The use of colors is mesmerizing, and the calligraffiti technique adds a unique touch. Kudos to Rocko & Joel Artista for creating such a captivating piece of art.",
+      "muralId": 21,
+      "author": "ArtLover87"
+    },
+    {
+      "id": 42,
+      "text": "I love the connection between the mural and the photographer's portrait series. It's incredible how art can bring different forms of creativity together. The location in Bushwick makes it a standout piece in Brooklyn. Great collaboration by Rocko & Joel Artista!",
+      "muralId": 21,
+      "author": "UrbanExplorer23"
+    },
+    {
+      "id": 43,
+      "text": "The Day After by How & Nosm on E Houston St is a graffiti-based masterpiece with a powerful impact.",
+      "muralId": 22,
+      "author": "GraffitiArtAficionado"
+    },
+    {
+      "id": 44,
+      "text": "The Day After is an intriguing display of How & Nosm's unique graffiti style.",
+      "muralId": 22,
+      "author": "UrbanExpressionist"
+    },
+    {
+      "id": 45,
+      "text": "Logan Hicks' Story of My Life intricately narrates the urban labyrinth at E Houston St.",
+      "muralId": 23,
+      "author": "UrbanLabyrinthStoryteller"
+    },
+    {
+      "id": 46,
+      "text": "Story of My Life is a captivating blend of realism and abstraction, a Logan Hicks trademark.",
+      "muralId": 23,
+      "author": "RealismAbstractionAdmirer"
+    },
+    {
+      "id": 47,
+      "text": "Buff Monster's Melty World in Lower East Side is a delightful burst of color and cuteness.",
+      "muralId": 24,
+      "author": "MeltyWorldEnthusiast"
+    },
+    {
+      "id": 48,
+      "text": "Melty World showcases Buff Monster's talent in bringing cute monsters and melty elements to life.",
+      "muralId": 24,
+      "author": "CutenessArtLover"
+    },
+    {
+      "id": 49,
+      "text": "Nychos' mural is a visual symphony of morbid whimsy! 🎨",
+      "muralId": 25,
+      "author": "QuirkAficionado"
+    },
+    {
+      "id": 50,
+      "text": "A burst of surreal brilliance by Nychos! 🌟",
+      "muralId": 25,
+      "author": "WhimsyWatcher"
+    },
+    {
+      "id": 51,
+      "text": "Buff Monster's Renaissance twist sparks imagination! Coney Island's rebirth amplifies the mural's charm. Kudos to Buff Monster's vibrant ingenuity!",
+      "muralId": 26,
+      "author": "ImaginationSeeker"
+    },
+    {
+      "id": 52,
+      "text": "Buff Monster's mural unveils potent symbols. Hercules leans toward sweetness, mirroring life's pivotal choices. Coney Island's evolution echoes positive transformations. Thoughtful and inspiring!",
+      "muralId": 26,
+      "author": "MindfulObserver"
+    },
+    {
+      "id": 53,
+      "text": "Stumbled upon this mural in the Bronx. The simplicity of the message, 'Love,' speaks volumes. Sometimes, the mysterious and understated art has the most profound impact. A hidden gem in the heart of the borough!",
+      "muralId": 27,
+      "author": "HeartfeltExplorer"
+    },
+    {
+      "id": 54,
+      "text": "The artist's choice to convey a message of 'Love' with simplicity is both intriguing and heartwarming.",
+      "muralId": 27,
+      "author": "ArtAdmirer42"
+    },
+    {
+      "id": 55,
+      "text": "Seeing these new pieces for the first time felt like stumbling upon an art secret in the Bronx! 🌟",
+      "muralId": 28,
+      "author": "ArtSecretFinder"
+    },
+    {
+      "id": 56,
+      "text": "Experiencing a new piece of art for the first time is like finding a visual gem ✨ in Mott Haven!",
+      "muralId": 28,
+      "author": "ArtGemDiscoverer"
+    },
+    {
+      "id": 57,
+      "text": "Daze's mural at Boone Avenue Walls in Mott Haven is a captivating display of vibrant creativity. The interplay of colors and dynamic strokes tells a unique story on the urban canvas. Witnessing this legendary artist's work for the first time is truly inspiring.",
+      "muralId": 29,
+      "author": "ArtEnthusiast101"
+    },
+    {
+      "id": 58,
+      "text": "Explored Mott Haven and discovered Daze's mural at Boone Avenue Walls. The dynamic strokes and urban vibes in this legendary artist's work are truly captivating. Experiencing it for the first time felt like stumbling upon a visual treasure in the Bronx!",
+      "muralId": 29,
+      "author": "UrbanExplorerJourney"
+    },
+    {
+      "id": 59,
+      "text": "ErinKelli Kilbane's mural is a captivating testament to local pride! The vibrant and dynamic artwork found just steps away from Hub17NYC is like discovering a cultural treasure in the heart of the borough. Truly an unexpected gem!",
+      "muralId": 30,
+      "author": "CultureExplorerX"
+    },
+    {
+      "id": 60,
+      "text": "Wandered through Stapleton Heights and stumbled upon ErinKelli Kilbane's striking mural at 73 Wave St. The community-driven energy and lively vibes of this artwork are a testament to Staten Island's evolving artistic landscape. A delightful find in the neighborhood!",
+      "muralId": 30,
+      "author": "ArtisticDiscoveryNomad"
+    },
+    {
+      "id": 61,
+      "text": "This urban masterpiece delivers a profound narrative, weaving messages against substance abuse and bullying. A hidden artistic gem awaiting discovery!",
+      "muralId": 31,
+      "author": "ArtEnthusiastDiscoverer"
+    },
+    {
+      "id": 62,
+      "text": "The collaborative brilliance of NYC Arts Cypher has turned ordinary walls into an engaging urban tapestry. This mural's bold stance against substance abuse and bullying adds depth to its visual allure.",
+      "muralId": 31,
+      "author": "UrbanCanvasExplorer"
+    },
+    {
+      "id": 63,
+      "text": "TooFly's mural in Astoria is a visual gem that beautifully blends culture and creativity. A delightful discovery!",
+      "muralId": 32,
+      "author": "ArtGemFinder"
+    },
+    {
+      "id": 64,
+      "text": "A harmonious blend of art and cultural expression!",
+      "muralId": 32,
+      "author": "CultureExplorer"
+    },
+    {
+      "author": "anita",
+      "text": "wow!",
+      "muralId": 1,
+      "id": 65
+    },
+    {
+      "author": "Diego",
+      "text": "I've been following Retna's work for years, and seeing this piece in person was absolutely breathtaking. The fusion of colors and intricate line work is mesmerizing. It's a true testament to his talent and creativity.",
+      "muralId": 34,
+      "id": 66
+    },
+    {
+      "author": "Carlos G.",
+      "text": "I love how this mural reflects the diversity and dynamism of Brooklyn. Retna's ability to merge different artistic influences is truly inspiring. It's a piece that speaks volumes about the spirit of this community.",
+      "muralId": 34,
+      "id": 67
+    },
+    {
+      "author": "Emily T.",
+      "text": "Powerful tribute to Gynnya McMillen, highlighting the flaws in the justice system.",
+      "muralId": 36,
+      "id": 68
+    },
+    {
+      "author": "Amir",
+      "text": "Lena and Caleb's mural is a stark reminder of the injustices faced by marginalized communities. Rest in power, Gynnya McMillen.",
+      "muralId": 36,
+      "id": 69
+    },
+    {
+      "author": "Mia",
+      "text": "Shiro's mural is a testament to the universal language of love and art. Astoria is lucky to have such talent on its streets.",
+      "muralId": 37,
+      "id": 70
+    },
+    {
+      "author": "Leo",
+      "text": "Shiro's 'Love Is All' mural perfectly captures the essence of Queens - diverse, creative, and full of love.",
+      "muralId": 37,
+      "id": 71
+    },
+    {
+      "author": "Kai",
+      "text": "JCorp's mural in Astoria feels like stepping into an anime wonderland! A fusion of cultures and creativity that's truly magical.",
+      "muralId": 39,
+      "id": 72
+    },
+    {
+      "author": "Sakura",
+      "text": "JCorp's mural is like a scene straight out of a vibrant anime world, adding a splash of color and fantasy to Astoria's streets.",
+      "muralId": 39,
+      "id": 73
+    },
+    {
+      "author": "Maya",
+      "text": "Danielle Mastrion's tribute to Stormé DeLarverie in Astoria is a powerful celebration of LGBTQ+ history and resilience. A beautiful addition to Queens!",
+      "muralId": 40,
+      "id": 74
+    },
+    {
+      "author": "Liam",
+      "text": "Impressed by Danielle Mastrion's dedication to social justice through her art. This vibrant mural is a testament to her activism.",
+      "muralId": 40,
+      "id": 75
+    },
+    {
+      "author": "Sasha",
+      "text": "Lexi Bella's mural of RuPaul is like a burst of color and energy in Astoria. It's like RuPaul's charisma, uniqueness, nerve, and talent jumped straight off the screen onto the wall!",
+      "muralId": 41,
+      "id": 76
+    },
+    {
+      "author": "Harper",
+      "text": "Lexi Bella's mural of RuPaul is iconic. It's like she's captured the spirit of drag culture and splashed it across the streets of Astoria for everyone to see and celebrate.",
+      "muralId": 41,
+      "id": 77
+    },
+    {
+      "author": "Isabella",
+      "text": "This mural is a beautiful tribute to her community leadership and dedication to urban farming. A true inspiration!",
+      "muralId": 42,
+      "id": 78
+    },
+    {
+      "author": "Jazon",
+      "text": "Impressed by the ability to capture Karen Washington's spirit in this vibrant mural. Crotona is enriched by such powerful artwork.",
+      "muralId": 42,
+      "id": 79
+    },
+    {
+      "author": "Isabella Owen",
+      "text": "The pink haired lady is so pretty!",
+      "muralId": 39,
+      "id": 80
+    },
+    {
+      "author": "Isabella Owen",
+      "text": "It's so crazy that the teeth are like bones!",
+      "muralId": 17,
+      "id": 81
+    }
+  ]
+}
